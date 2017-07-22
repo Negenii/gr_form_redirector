@@ -31,7 +31,8 @@ If it placed in your root folder, your line will look like this:
 ```html
 <form action="subscribe.php" accept-charset="utf-8" method="post">
 ```
-3. Add URL to redirect user when his email already exists in campaign.```html
+3. Add URL to redirect user when his email already exists in campaign.
+```html
 <input type="hidden"type="text" name="alreadyredirect" value="http://YOUR-URL.HERE"
 ```
 If this url is not set and subscriber exists in campaign, visitor will be redirected back. 
