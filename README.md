@@ -1,4 +1,4 @@
-# gr form redirector
+# GetResponse form custom redirect
 
 GR form redirector is a tool to add subscribers to GetResponse via html-form and also to redirect subscriber to specific URL if his email is already subscribed to the campaign, which is missing in GetResponse plain html forms.
 
